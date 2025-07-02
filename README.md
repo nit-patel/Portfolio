@@ -303,7 +303,7 @@ Whether you run a bustling restaurant, a cozy cafe, or a food kiosk, Kiosk Kitch
 **Name:** Your Full Name  
 **Email:** [savaliya123.ns@gmail.com](mailto:savaliya123.ns@gmail.com)  
 **LinkedIn:** [linkedin.com/in/nitul-savaliya-2a8373134](https://www.linkedin.com/in/nitul-savaliya-2a8373134)  
-**Portfolio Website:** [nit-patel/Portfolio.com](https://github.com/nit-patel/Portfolio/edit/main/README.md)
+**Portfolio Website:** [github.com/nit-patel/Portfolio/edit/main/README.md](https://github.com/nit-patel/Portfolio/edit/main/README.md)
 
 ---
 
