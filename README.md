@@ -154,29 +154,6 @@ Enhanced Experience: Share feedback, access travel tips and request itinerary ch
 **📱 Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.mobicule.sotc.holiday.consumer.app)  
 **🍏 iOS:** [Download on App Store](https://apps.apple.com/in/app/sotc-holidays/id1330170083)
 
-
----
-
-<div align="left">
-  <div style="display: inline-flex; align-items: center; gap: 10px;">
-    <img 
-      src="https://play-lh.googleusercontent.com/J6yL1iQBYfi98zoS_zgPF95h8-83cC48BXCuZxSYNbrAdU4VGi5_NFIC1gFZ0HJMlfK6=s450-rw" 
-      width="40" 
-      height="40" 
-      style="border-radius: 8px;"
-    />
-    <h2 style="margin: 0;">ANJEL Tech</h2>
-  </div>
-</div>
-
-
-**Overview:**  
-ANJEL was created because too many African-American mothers (in particular) are losing their sons and daughters to senseless (and preventable) violence; because accountability for these incidents is historically low and often nonexistent; because most injury and loss of young Black Lives occurs close to home; because people want, need and deserve to know what is happening to their loved ones and where it's happening (in real-time); because the technology exists to solve this problem, and where it doesn’t, we will create it; because we are a team of People of Color who live this experience every day and do not ourselves want to become another statistic; because we have mothers, fathers, sons, daughters, brothas, sistas, nieces, nephews, aunties, and uncles just like you; because you can’t have Liberty and the Pursuit of Happiness, if you don’t have and/or cannot maintain your Life; because Black Lives Matter; and because we can. So, we did! We created a Personal Security System, just for YOU. You can think of it as your own personal body camera. It’s secure. It’s mobile. It’s powerful. It’s designed and created for YOU.
-
-**🌐 Website:** [Visit ANJEL Tech](https://anjel.tech/)  
-**📱 Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.anjel.videostream)  
-**🍏 iOS:** [Download on App Store](https://apps.apple.com/in/app/anjel-tech/id1525705706)
-
 ---
 <div align="left">
   <div style="display: inline-flex; align-items: center; gap: 10px;">
