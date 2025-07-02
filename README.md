@@ -150,7 +150,7 @@ Manage Bookings: Access all your trip details, travel documents and visa updates
 Seamless Payments: Make secure payments and track your transaction history effortlessly.
 Enhanced Experience: Share feedback, access travel tips and request itinerary changes - all on the go!
 
-**🌐 Website:** [Visit Care Coordinations](https://www.sotc.in)  
+**🌐 Website:** [Visit SOTC Holidays](https://www.sotc.in)  
 **📱 Android:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.mobicule.sotc.holiday.consumer.app)  
 **🍏 iOS:** [Download on App Store](https://apps.apple.com/in/app/sotc-holidays/id1330170083)
 
